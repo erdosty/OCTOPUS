@@ -1,14 +1,15 @@
 OCTOPUS: Automatic Foveal Avascular Zone and Perfused Vessel Density Calculator
 
-OCTOPUS 2.2: Multiple Image Processing
+Two versions are available:
 
-OCTOPUS 2.0: Single Image Processing
+OCTOPUS 2.2: Multiple Image Processing (https://github.com/erdosty/OCTOPUS/releases/tag/v2.2)
+
+OCTOPUS 2.0: Single Image Processing (https://github.com/erdosty/OCTOPUS/releases/tag/v2.0)
 
 Erdost YILDIZ
 
-erdosty@gmail.com
-
 Max Planck Institute for Intelligent Systems
+
 
 MATLAB based OCT-Angiography based Automatic Foveal Avascular Zone (FAZ) and Vessel (Noncapillary and Capillary) Density Calculator
 
