@@ -19,3 +19,7 @@ Image size = 6 mm x 6 mm
 OCT-A modalities = Full-Slab, Deep and Superficial  
 ROI Types = Point Selection for Center of Fovea and Freehand Region Selection for Foveal Avascular Zone
 IMPORTANT NOTE: Other types of *.roi files will be not identified by the software.
+
+Example Image Result:
+
+![4 jpg FAZ Dependent Annuli](https://user-images.githubusercontent.com/39468513/131999285-4bdd71cc-7f4e-4e8d-97de-4447bd3922db.png)
