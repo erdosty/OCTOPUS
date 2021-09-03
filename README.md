@@ -24,4 +24,4 @@ Example Image Result:
 
 ![4 jpg FAZ Dependent Annuli](https://user-images.githubusercontent.com/39468513/131999285-4bdd71cc-7f4e-4e8d-97de-4447bd3922db.png)
 
-Copyright (c) 2021, Erdost Yildiz. All rights reserved.
+Copyright (c) 2021, Erdost YILDIZ. All rights reserved.
