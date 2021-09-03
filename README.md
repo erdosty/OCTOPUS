@@ -5,7 +5,9 @@ OCTOPUS 2.2: Multiple Image Processing
 OCTOPUS 2.0: Single Image Processing
 
 Erdost YILDIZ
+
 erdosty@gmail.com
+
 Max Planck Institute for Intelligent Systems
 
 MATLAB based OCT-Angiography based Automatic Foveal Avascular Zone (FAZ) and Vessel (Noncapillary and Capillary) Density Calculator
