@@ -1,6 +1,6 @@
 OCTOPUS: Automatic Foveal Avascular Zone and Perfused Vessel Density Calculator
 
-Please cite this publication if you use this code in your work: Cigdem Ardic, Almila Sarigul-Sezenoz, Erdost Yıldız, and Sirel Gur-Gungor. Automated quantitative examination of macular perfusion in Behcet’s uveitis on optical coherence tomography angiography images. Current Eye Research, 2026. http://dx.doi.org/10.1080/02713683.2026.2765591 
+Please cite this publication if you use this code in your work: Cigdem Ardic, Almila Sarigul-Sezenoz, Erdost Yıldız, and Sirel Gur-Gungor. Automated Quantification of Macular Perfusion in Behçet’s Uveitis Using Optical Coherence Tomography Angiography. Current Eye Research, 2026. http://dx.doi.org/10.1080/02713683.2026.2765591 
 
 Two versions are available:
 
